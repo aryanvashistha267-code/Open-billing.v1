@@ -1,11 +1,20 @@
 # Open-Billing.v1
+<p align="center">
+  <img src="assets/logo.png" width="140">
+</p>
 
+<h1 align="center">OpenBilling</h1>
+
+<p align="center">
+Universal browser-based billing system for small businesses.
+</p>
 Universal browser-based billing system for small businesses.
 
 Live Demo:
 [OpenBilling Live App](https://openbilling.netlify.app/?utm_source=chatgpt.com)
 
 ---
+
 
 ## Features
 
